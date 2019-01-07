@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/random-words/robots.txt"
   },
   {
-    "revision": "0e00b51353206c1da54dc5b044feecb5",
+    "revision": "4151db6087fd6e7bd3f0ba8c631a61e4",
     "url": "/random-words/index.html"
   },
   {
@@ -16,19 +16,19 @@ self.__precacheManifest = [
     "url": "/random-words/assets/js/chunk-vendors.b897024b.js"
   },
   {
-    "revision": "99ec46b115d79f27d36a",
-    "url": "/random-words/assets/js/app.f4c75cfe.js"
+    "revision": "8564a039fd53f5b462e5",
+    "url": "/random-words/assets/js/app.1d4f2829.js"
   },
   {
-    "revision": "97308792713fe8ffeca9",
-    "url": "/random-words/assets/js/about.be4f63f3.js"
+    "revision": "9341e0e207b0573f0a21",
+    "url": "/random-words/assets/js/about.c9435e48.js"
   },
   {
-    "revision": "99ec46b115d79f27d36a",
+    "revision": "8564a039fd53f5b462e5",
     "url": "/random-words/assets/css/app.9cf0a8c1.css"
   },
   {
-    "revision": "97308792713fe8ffeca9",
-    "url": "/random-words/assets/css/about.2b023fed.css"
+    "revision": "9341e0e207b0573f0a21",
+    "url": "/random-words/assets/css/about.a4509f5b.css"
   }
 ];
