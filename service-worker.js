@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "precache-manifest.492b4f812378c1491534c0a9e3159865.js"
+  "precache-manifest.4ba9d9b2a04d3728ffa41b55f87d9ca7.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "random-words"});
